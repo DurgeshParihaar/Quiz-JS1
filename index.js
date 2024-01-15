@@ -1,5 +1,5 @@
 
-const correctanswers = ["Mumbai","Bhopal","Gandhinagar","Bangalore"];
+const correctanswers = ["A","B","C","D"];
 const form = document.querySelector(".quiz-form");
 const result = document.querySelector(".result");
 const question = document.querySelectorAll(".questions");
